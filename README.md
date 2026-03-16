@@ -31,6 +31,6 @@ POST /items
  "description": "Black leather wallet",
  "color": "Black",
  "locationFound": "Library",
- "reportedBy": "Rahul",
- "contactNumber": "9876543210"
+ "reportedBy": "Yash Uppal",
+ "contactNumber": "6387578748"
 }
